@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automats.WithoutEpsilon", "Automats.WithoutEpsilon\Automats.WithoutEpsilon.csproj", "{0DB1010A-0767-43A0-A9F2-2E91C9B95687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automats.WithEpsilon", "Automats.WithEpsilon\Automats.WithEpsilon.csproj", "{EFC4B072-E4BF-49D8-86D3-C761306DD797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DB1010A-0767-43A0-A9F2-2E91C9B95687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB1010A-0767-43A0-A9F2-2E91C9B95687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB1010A-0767-43A0-A9F2-2E91C9B95687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB1010A-0767-43A0-A9F2-2E91C9B95687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC4B072-E4BF-49D8-86D3-C761306DD797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC4B072-E4BF-49D8-86D3-C761306DD797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC4B072-E4BF-49D8-86D3-C761306DD797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC4B072-E4BF-49D8-86D3-C761306DD797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B004284A-44B8-4378-923F-D1BC7E68E64A}
+	EndGlobalSection
+EndGlobal
